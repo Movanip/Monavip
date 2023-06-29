@@ -1,0 +1,5 @@
+/**
+* @param {*=} receiver to substitute for 'this'
+* @param {Array} parameters to use as arguments to the function
+*/
+Function.prototype.apply;
